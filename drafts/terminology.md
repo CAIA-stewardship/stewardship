@@ -55,5 +55,9 @@ Where conflicts arise between this glossary and the CAIA specification,
 the specification always takes precedence.
 
 ---------------------------------------------------------
+
+This document represents early sense-making and may change substantially.
+
+---------------------------------------------------------
 END OF DOCUMENT
 =========================================================
