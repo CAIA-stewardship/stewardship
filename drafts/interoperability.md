@@ -66,5 +66,9 @@ Where ambiguities are identified, they may be surfaced to the
 CAIA Maintainers Group (CMG) for consideration.
 
 ---------------------------------------------------------
+
+This document represents early sense-making and may change substantially.
+
+---------------------------------------------------------
 END OF DOCUMENT
 =========================================================
