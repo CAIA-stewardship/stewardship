@@ -56,5 +56,9 @@ This document does not attempt to:
 - Recommend implementation strategies
 
 ---------------------------------------------------------
+
+This document represents early sense-making and may change substantially.
+
+---------------------------------------------------------
 END OF DOCUMENT
 =========================================================
