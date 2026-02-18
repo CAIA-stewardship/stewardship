@@ -1,26 +1,36 @@
 =========================================================
-CAIA STEWARDSHIP COUNCIL (CSC)
-Charter — Draft v0.1
+CAIA Stewardship Council (CSC)
+Charter – v0.10 Aligned
 =========================================================
 
-STATUS
-------
-This document defines the scope, limits, and operating principles of the
-CAIA Stewardship Council (CSC).
+1. Purpose
 
-This charter is intentionally non-normative and grants no authority over
-the CAIA specification.
+The CAIA Stewardship Council (CSC) exists to support healthy
+cross-vendor interoperability within the CAIA ecosystem while
+preserving the architectural neutrality and independence of the
+CAIA specification.
+
+CSC does not own the CAIA architecture. CSC supports ecosystem
+stability, clarity, and interoperability at shared seams.
 
 ---------------------------------------------------------
-1. PURPOSE
+2. Separation of Authority
 ---------------------------------------------------------
 
-The CAIA Stewardship Council (CSC) exists to support the adoption, correct
-implementation, and long-term interoperability of systems that conform
-to the CAIA specification.
+2.1 Normative Specification
 
-CSC focuses on practical coordination and shared understanding, not
-specification authorship or enforcement.
+The CAIA specification defines:
+
+- IO Devices (vendor-defined, out of scope)
+- Coordinators (vendor-defined, expose the Coordinator ↔ Aggregator interface)
+- A single host-resident Aggregator role
+- Aggregator Domains
+- Core architectural invariants
+- Host Interface invariants
+- Transport Profile structure and claim boundaries
+
+Conformance to CAIA is determined solely by adherence to the
+normative specificationspecification authorship or enforcement.
 
 ---------------------------------------------------------
 2. NON-AUTHORITY OVER THE SPECIFICATION
